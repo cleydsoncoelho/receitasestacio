@@ -1,0 +1,16 @@
+.card-body {
+    text-align: left; /* Alinha todo o texto dentro do card-body à esquerda */
+}
+
+.card-body ul {
+    list-style-type: disc; /* Garante que a lista tenha marcadores */
+    padding-left: 20px; /* Adiciona padding à esquerda para alinhar os marcadores corretamente */
+}
+
+.card-title, .card-text {
+    text-align: left; /* Alinha os títulos e textos à esquerda dentro do card */
+}
+
+.card-text p, .card-text ul {
+    text-align: left; /* Garante que os parágrafos e listas estejam alinhados à esquerda */
+}
